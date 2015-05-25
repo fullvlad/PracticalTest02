@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTest02</string>
+    <string name="hello_world">Awesome App</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_text">Type an URL</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Get response</string>
+    
+
+</resources>
